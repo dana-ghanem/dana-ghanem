@@ -6,7 +6,7 @@ I build full stack web applications with React, Next.js, Laravel, and Python. I 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danaghanemm20)
 [![Email](https://img.shields.io/badge/Email-danaghanem9%40hotmail.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:danaghanem9@hotmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-danaghanem39%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:danaghanem39@gmail.com)
 ---
 
 ### Featured Projects
