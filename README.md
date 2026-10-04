@@ -1,6 +1,6 @@
 # Dana Ghanem
 
-**Software Developer | Full Stack Web Developer** based in Beirut, Lebanon
+**Software Developer | Full Stack Web Developer** based in Lebanon
 
 I build full stack web applications with React, Next.js, Laravel, and Python. I hold a Bachelor's degree in Business Computer from Lebanese University and completed two web development internships at TechTalks, where I was recognized in the TechTalks Champions Program.
 
